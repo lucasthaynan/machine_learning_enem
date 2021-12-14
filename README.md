@@ -6,4 +6,10 @@ Para a elaboração do modelo foram utilizados os microdados do Enem, disponíve
 
 [Acesse aqui](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem) a base de dados.
 
+# Resultados obtidos
+Acurácia: 54%
+O modelo conseguiu prever corretamente 63% das observações do Grupo 0 (Nota Baixa) do conjunto de teste. 
+Um resultado semelhante foi visto em relação ao Grupo 2 (Nota Alta), com taxa de acerto de 60%.
+Por outro lado, o Grupo 1 (Nota Regular) foi o que teve o pior resultado de acerto, com apenas 38% das previsões corretas.
+
 
